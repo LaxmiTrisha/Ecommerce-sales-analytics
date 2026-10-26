@@ -11,4 +11,4 @@ An end-to-end data analytics project built to analyze e-commerce customer transa
 ---
 
 ## 🗄️ MySQL Query Results & Database Outputs
-![MySQL Query Results](mysql-query-results/your-image-name.png)
+![MySQL Query Results](mysql-query-results.png)
