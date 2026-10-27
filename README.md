@@ -1,7 +1,3 @@
-## My Project Screenshots
+## Download Project Files
 
-### 1. MySQL Database Setup
-![Database Setup](mysql-query-results.png)
-
-### 2. Power BI Sales Dashboard
-![Sales Dashboard](powerbi-sales-dashboard.png)
+[Download the complete project ZIP](github-upload.zip)
